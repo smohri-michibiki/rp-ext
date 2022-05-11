@@ -3,13 +3,13 @@
   "files": [
     {
       "name": "i40evf-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/tree/main/i40evf/releases/i40e-4.4.180plus.tgz",
+      "url": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/main/i40evf/releases/i40e-4.4.180plus.tgz",
       "sha256": "58f42c9ff26973b78d006d38ac19781ea86d4d7e198e9ca9329e36a285ce63ad",
       "packed": true
     },
     {
       "name": "check-i40evf.sh",
-      "url": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/tree/main/i40evf/src/check-i40evf.sh",
+      "url": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/main/i40evf/src/check-i40evf.sh",
       "sha256": "a89060dd9ff0dade0a1e0c1cdfd9b45c721d8c0a8adfa3d22830f9459c3b6930",
       "packed": false
     }
