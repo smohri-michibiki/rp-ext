@@ -3,7 +3,7 @@
   "files": [
     {
       "name": "i40evf-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/main/i40evf/releases/i40e-4.4.180plus.tgz",
+      "url": "https://github.com/smohri-michibiki/rp-ext/raw/main/i40evf/releases/i40evf-4.4.180plus.tgz",
       "sha256": "58f42c9ff26973b78d006d38ac19781ea86d4d7e198e9ca9329e36a285ce63ad",
       "packed": true
     },
