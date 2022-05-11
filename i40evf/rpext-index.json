@@ -9,8 +9,8 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds918p_42218": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/tree/main/i40evf/releases/ds918p_42218.json",
-    "ds918p_42621": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/tree/main/i40evf/releases/ds918p_42218.json",
-    "ds918p_42661": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/tree/main/i40evf/releases/ds918p_42218.json"
+    "ds918p_42218": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/main/i40evf/releases/ds918p_42218.json",
+    "ds918p_42621": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/main/i40evf/releases/ds918p_42218.json",
+    "ds918p_42661": "https://raw.githubusercontent.com/smohri-michibiki/rp-ext/main/i40evf/releases/ds918p_42218.json"
   }
 }
